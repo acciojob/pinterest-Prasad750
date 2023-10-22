@@ -9,6 +9,8 @@
 #img1{
 	width:900px;
 	height:40vh;
+	object-fit:cover;
+	
 }
 .item1{
 	display:flex;
@@ -23,7 +25,7 @@ h1,p{
 }
 
 button{
-	background-color:#328543;
+	background-color:#ef574c;
 	border-radius:5px;
 	color:white;
 	padding:5px
